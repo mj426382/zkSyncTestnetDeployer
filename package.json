@@ -1,0 +1,17 @@
+{
+  "name": "zkSyncTestnetMulticall",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mj426382/zkSyncTestnetMulticall.git",
+  "author": "mateusz <mistrzumati@spoko.pl>",
+  "license": "MIT",
+  "devDependencies": {
+    "@matterlabs/hardhat-zksync-deploy": "^0.1.5",
+    "@matterlabs/hardhat-zksync-solc": "^0.3.0",
+    "ethers": "^5.6.2",
+    "hardhat": "^2.9.2",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.3",
+    "zksync-web3": "^0.4.0"
+  }
+}
