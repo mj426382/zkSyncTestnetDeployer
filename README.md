@@ -1,4 +1,4 @@
-# zkSyncTestnetMulticall
+# Contract deployer for zkSync testnet
 
 ## Compile 
 
